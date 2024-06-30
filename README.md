@@ -14,7 +14,7 @@ Type or copy the below code in your terminal to pull this repo to your computer
 # Clone the repository
 git clone https://github.com/AL-MD-BILAL/Static-Webpage.git
 
-# Change directory to the transposition directory
+# Change directory to the Static-Webpage directory
 cd Static-Webpage
 ```
 
