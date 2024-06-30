@@ -37,5 +37,6 @@ firefox index.html
 - The html files that you can run are index.html, about.html and pre_conc.html
 - The css file that you can run are style.css
 - The remaining files in this repo are used to support those html files by providing images, pdf, etc
+- Feel free to edit these html and css files as you please as per your requirements
 
 ```
