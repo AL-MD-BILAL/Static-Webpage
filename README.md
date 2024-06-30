@@ -1,4 +1,4 @@
-# Static-Webpage
+# Static Webpage
 
 This staic webpage show cases a basic functionality that html and css could provide. 
 
