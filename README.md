@@ -33,4 +33,9 @@ firefox index.html
 # To generally view in a browser
 <browser-name> index.html
 
+# Note :
+- The html files that you can run are index.html, about.html and pre_conc.html
+- The css file that you can run are style.css
+- The remaining files in this repo are used to support those html files by providing images
+
 ```
