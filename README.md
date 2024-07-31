@@ -12,7 +12,7 @@ This staic webpage show cases a basic functionality that html and css could prov
 Type or copy the below code in your terminal to pull this repo to your computer 
 ```bash
 # Clone the repository
-git clone https://github.com/AL-MD-BILAL/Static-Webpage.git
+git clone https://github.com/al-mohamed-bilal/Static-Webpage.git
 
 # Change directory to the Static-Webpage directory
 cd Static-Webpage
